@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **myself@suyeonpark.info**
 
-- ⚡ Fun fact **I remember almost every single name of furnitures on IKEA.**
+- ⚡ Fun fact **: I remember almost every single name of furnitures on IKEA.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
