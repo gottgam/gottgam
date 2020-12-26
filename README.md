@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://gottgam.github.io/](https://gottgam.github.io/)
 
-- 📫 How to reach me **myself@suyeonpark.info**
+- 📫 How to reach me **me@suyeonpark.info**
 
 - ⚡ Fun fact **: I remember almost every single name of furnitures on IKEA.**
 
