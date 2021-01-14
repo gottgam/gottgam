@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyeon Park(a.k.a. Cameron)</h1>
 <h3 align="center">Being an harmonious expert.</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript family**
+- 🌱 **BSc Service Design Engineering, BASc Art & Technology**
 
 - 📝 I regularly write articles on [https://gottgam.github.io/](https://gottgam.github.io/)
 
