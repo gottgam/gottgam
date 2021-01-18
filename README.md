@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Suyeon Park(a.k.a. Cameron)</h1>
-<h3 align="center">Being an harmonious expert.</h3>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Cameron Park](https://www.gottgam.github.io/)!(Korean name: SuYeon Park)
 
-- 🌱 **BSc Service Design Engineering, BASc Art & Technology**
+### Right now, I'm...
 
-- 📝 I regularly write articles on [https://gottgam.github.io/](https://gottgam.github.io/)
+🌱 **B.Sc Service Design Engineering, B.A.Sc Art & Technology** student who's preparing to go to graduate school <br />
+😍 Focusing on to create a combination between computer science and new media art <br />
+📫 How to reach me **me@suyeonpark.info**
 
-- 📫 How to reach me **me@suyeonpark.info**
+### What I'm focusing on 💻📝🎨🎸
 
-- ⚡ Fun fact **: I remember almost every single name of furnitures on IKEA.**
+Currently improving my Computer vision, Computer graphic, and Frontend skills: OpenCV, OpenGL, scikit-learn, Tensorflow, GAN, and JS etc.<br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/suyeonparkbb8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="suyeonbb8" height="30" width="40" /></a>
-<a href="https://www.behance.net/rollingbb8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="suyeonbb8" height="30" width="40" /></a>
-</p>
+✨ Fun fact **: I remember almost every single name of furnitures on IKEA.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gottgam&show_icons=true&locale=en&layout=compact" alt="gottgam" /></p>
+### Connect with me🙏🏻
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyeonparkbb8/)](https://www.linkedin.com/in/suyeonparkbb8/)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gottgam&show_icons=true&locale=en&layout=compact" alt="gottgam" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gottgam&show_icons=true&locale=en" alt="gottgam" /></p>
