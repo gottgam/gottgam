@@ -13,7 +13,7 @@ Currently improving my __Computer vision, Computer graphic, and Frontend__ skill
 ✨ Fun fact **: I remember almost every single name of furnitures on IKEA.**
 
 ### Connect with me🙏🏻
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/suyeonparkbb8 />
+[!image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "https://linkedin.com/in/suyeonparkbb8")
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gottgam&show_icons=true&locale=en&layout=compact" alt="gottgam" /></p>
