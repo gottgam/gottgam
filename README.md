@@ -29,7 +29,7 @@ Currently improving my __Computer vision, Computer graphic, and Frontend__ skill
 
 ### Fun fact👀
 
-I remember almost every single name of furnitures on IKEA.
+I remember almost every single name of furnitures of IKEA.
 
 ### Connect with me🙏🏻
 <a href="https://www.linkedin.com/in/suyeonparkbb8/">
