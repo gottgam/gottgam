@@ -16,9 +16,12 @@ Currently improving my __Computer vision, Computer graphic, and Frontend__ skill
 <a href="https://www.linkedin.com/in/suyeonparkbb8/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/rollingbb8">
+<a href="https://instagram.com/rollingbb8">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-
+<a href="https://steamcommunity.com/id/rollingbb8/">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<a href="spotify:user:camwalker1115">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gottgam&show_icons=true&locale=en&layout=compact" alt="gottgam" /></p>
 
