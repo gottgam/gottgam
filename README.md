@@ -27,11 +27,11 @@ Currently improving my __Computer vision, Computer graphic, and Frontend__ skill
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### Fun fact👀
+### Fun fact 👀
 
 I remember almost every single name of furnitures of IKEA.
 
-### Connect with me🙏🏻
+### Connect with me 🙏🏻
 <a href="https://www.linkedin.com/in/suyeonparkbb8/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
