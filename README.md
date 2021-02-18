@@ -44,6 +44,6 @@ I remember almost every single name of furnitures of IKEA.
 <a href="https://open.spotify.com/user/camwalker1115?si=rwnsitPvRXuqr3WIFlAPLw">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gottgam&show_icons=true&locale=en&layout=compact" alt="gottgam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sueonpark&show_icons=true&locale=en&layout=compact" alt="gottgam" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gottgam&show_icons=true&locale=en" alt="gottgam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sueonpark&show_icons=true&locale=en" alt="gottgam" /></p>
