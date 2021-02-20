@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cameron Park!(Korean name: Sueon Park, 박수연)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cameron Park!(Korean name: Suyon Park, 박수연)
 
 ### Right now, I'm...
 
