@@ -4,7 +4,7 @@
 
 🌱 **B.Sc Service Design Engineering, B.A.Sc Art & Technology** student who's preparing to go to graduate school <br />
 😍 Focusing on to create a combination between computer science and new media art <br />
-📫 How to reach me **me.suyonpark@gmail.com**
+📫 How to reach me **me@suyonpark.com**
 
 ### What I'm focusing on 💻📝🎨🎸
 
