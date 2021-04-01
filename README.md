@@ -1,14 +1,14 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cameron Park!(Korean name: Suyon Park, 박수연)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cameron Park.(Korean name: Suyon Park, 박수연)
 
 ### Right now, I'm...
 
-🌱 **B.Sc Service Design Engineering, B.A.Sc Art & Technology** student who's preparing to go to graduate school <br />
-😍 Focusing on to create a combination between computer science and new media art <br />
+🌱 **B.Sc Service Design Engineering, B.A.Sc Art & Technology** student. <br />
+😍 Love to create a combination between computer science and art. <br />
 📫 How to reach me **me@suyonpark.com**
 
 ### What I'm focusing on 💻📝🎨🎸
 
-Currently improving my __Computer vision, Computer graphic, Quantum computing, and Frontend__ skills: OpenCV, OpenGL, scikit-learn, Tensorflow, GAN💕, and JS etc.<br />
+Currently improving my __Quantum computing, and Website developing__ skills: Learning Linear algebra, Advanced calculus, Quantum mechanics, Quantum information, building interactive web page,  etc.<br />
 
 ### My Skills ✨
 <p align='center'>
@@ -32,7 +32,7 @@ Currently improving my __Computer vision, Computer graphic, Quantum computing, a
 I remember almost every single name of furnitures of IKEA.
 
 ### Connect with me 🙏🏻
-<a href="https://www.linkedin.com/in/suyeonparkbb8/">
+<a href="https://www.linkedin.com/in/suyonpark/">
   <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 <a href="https://instagram.com/rollingbb8">
