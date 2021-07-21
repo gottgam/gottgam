@@ -2,7 +2,7 @@
 
 ### Right now, I'm...
 
-🌱 a B.Sc Service Design Engineering, B.A.Sc Art & Technology** student. <br />
+🌱 a B.Sc Service Design Engineering, B.A.Sc Art & Technology student. <br />
 😍 building a bridge between an art and a programming. <br />
 📫 How to reach me: me@cameronpark.me (palindromic, huh?)
 
