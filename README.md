@@ -1,14 +1,14 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cameron Park.(Korean name: Suyon Park, 박수연)
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Cameron.
 
 ### Right now, I'm...
 
-🌱 **B.Sc Service Design Engineering, B.A.Sc Art & Technology** student. <br />
-😍 Love to create a combination between computer science and art. <br />
-📫 How to reach me **me@suyonpark.com**
+🌱 a B.Sc Service Design Engineering, B.A.Sc Art & Technology** student. <br />
+😍 building a bridge between an art and a programming. <br />
+📫 How to reach me: me@cameronpark.me (palindromic, huh?)
 
 ### What I'm focusing on 💻📝🎨🎸
 
-Currently improving my __Quantum computing, and Website developing__ skills: Learning Linear algebra, Advanced calculus, Quantum mechanics, Quantum information, building interactive web page,  etc.<br />
+Builds my portfolio webpage, writes a SF novel, ands practice comic book style drawing.<br />
 
 ### My Skills ✨
 <p align='center'>
